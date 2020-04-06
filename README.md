@@ -1,2 +1,2 @@
 # Banking-With-Us
-- Game based on Banking system
+- This is for a competition under repl
